@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "stackoverflow": "https://stackoverflow.com/questions?sort=newest",
+    "codeproject": "https://www.codeproject.com/script/Articles/Latest.aspx",
+    "medium": "https://medium.com/topic/programming"
+  },
+}
